@@ -11,9 +11,11 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            I am a junior full stack software developer from Udumalpettai. I am passionate about web development and about languages such as HTML, CSS, and Javascript.
+
+            <br className="hidden lg:inline-block" />I recently graduated from Dr.Mahalingam College of engineering and Technology and learn to code myself throw online masterclass and I am looking for a full-stack position.
+
+            <br className="hidden lg:inline-block" />When not coding, I enjoy hanging out with my friends.
           </p>
           <div className="flex justify-center">
             <a
